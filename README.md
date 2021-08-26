@@ -2,4 +2,5 @@
 MATLAB and Python scripts to highlight stuff I learnt about Neural Networks.
 
 ## 1. Perceptron Training
-![alt text](https://github.com/bhavisheythapar/NeuralNetworks/blob/main/perceptron.gif "Logo Title Text 1")
+<img src="https://github.com/bhavisheythapar/NeuralNetworks/blob/main/perceptron.gif " width="40" height="40" />
+![alt text](https://github.com/bhavisheythapar/NeuralNetworks/blob/main/perceptron.gif)
